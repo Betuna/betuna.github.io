@@ -1,11 +1,10 @@
-
 # Site settings
 title: Blog para la UNIR
 email: mabicm@outlook.com
 description: >- # Esta es la descripción que aparecerá en los motores de búsqueda
   Un blog sencillo creado para una actividad de la UNIR, demostrando el uso de HTML y CSS con Jekyll y GitHub Pages.
 baseurl: "" 
-url: "https://betuna.github.io/o" # La URL base de tu sitio
+url: "https://betuna.github.io/" # La URL base de tu sitio
 
 # Theme settings (asegúrate de que coincida con el tema que elijas o con minima)
 theme: minima # Si elegiste Minima en el selector de tema de GitHub Pages, o puedes cambiarlo aquí si sabes el nombre del gem del tema.
