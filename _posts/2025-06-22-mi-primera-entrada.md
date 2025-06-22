@@ -1,32 +1,21 @@
 ---
 layout: post
-title:  "Mi Primera Entrada: Explorando HTML y CSS"
+title:  "Mi Primera Entrada del Blog"
 date:   2025-06-22 10:00:00 -0600
-categories: [programacion, web, escolar]
-tags: [html, css, blog]
+categories: blog
+tags: [html, css, jekyll]
+featured_image: /assets/images/html-logo.png # Opcional: si tienes una imagen del logo de HTML, pon aquí su ruta
 ---
 
-¡Hola! Para mi primera entrada del blog, estoy emocionado de mostrar cómo estoy aplicando los conceptos de **HTML** para estructurar el contenido y **CSS** para darle estilo.
+¡Hola a todos! Esta es mi primera entrada en mi blog escolar. Aquí estoy aplicando mis conocimientos de **HTML** y **CSS**.
 
-### Estructura con HTML
+Este es un párrafo de texto de ejemplo. Podemos incluir **texto en negrita**, *texto en cursiva* y [enlaces](https://www.google.com).
 
-El HTML es la columna vertebral de cualquier página web. Aquí un ejemplo simple de cómo organizo un párrafo y una lista:
+También puedo añadir una imagen de nuestro amigo HTML:
 
-```html
-<p>Este es un párrafo sobre mis aprendizajes.</p>
-<ul>
-  <li>Concepto 1: Semántica HTML</li>
-  <li>Concepto 2: Selectores CSS</li>
-  <li>Concepto 3: Box Model</li>
-</ul>
-Estilo con CSS
-Con CSS, podemos hacer que nuestra página se vea increíble. Por ejemplo, cambiando el color del texto y el fondo:
-CSS
-body {
-  font-family: sans-serif;
-  background-color: #f0f8ff; /* Azul claro */
-  color: #333;
-}
-h1, h2 {
-  color: #2a52be; /* Azul más oscuro */
-}
+![Logo de HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+
+---
+## Subtítulo de la Entrada
+
+Aquí hay más contenido sobre cómo estoy aprendiendo a estructurar mi sitio web con **HTML** y a darle estilo con **CSS**.
