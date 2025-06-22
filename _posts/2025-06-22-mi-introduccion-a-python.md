@@ -4,14 +4,17 @@ title:  "Mi Introducción a Python: Un Lenguaje Versátil"
 date:   2025-06-22 13:20:00 -0600
 categories: [programacion, python, desarrollo]
 tags: [python, programacion, facil, web]
-featured_image: /assets/images/python-code.jpg # Opcional: si tienes una imagen sobre Python, pon aquí su ruta
+featured_image: /assets/images/python-logo.png # Asegúrate de subir esta imagen a tu carpeta assets/images
 ---
 
 ¡Hola a todos! Hoy quiero compartir mi entusiasmo por **Python**, un lenguaje de programación que me ha fascinado por su simplicidad y versatilidad. Es una excelente opción para principiantes y profesionales por igual.
 
 ### ¿Por qué Python?
 
-Lo que más me atrae de Python es su **sintaxis clara y legible**, que parece casi inglés. Esto hace que sea mucho más fácil escribir y entender el código. Además, su comunidad es enorme y ofrece una cantidad increíble de bibliotecas y frameworks para casi cualquier tarea.
+Lo que más me atrae de Python es su **sintaxis clara y legible**, que parece casi inglés. Esto hace que sea mucho más fácil escribir y entender el código. Además, su comunidad es enorme y ofrece una cantidad increíble de bibliotecas y frameworks para casi cualquier tarea. Python fue creado por **Guido van Rossum**, un ingeniero y científico de la computación holandés, quien es conocido como el "Benevolente Dictador Vitalicio" de Python.
+
+![Logo de Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+*El icónico logo de Python, simbolizando la serpiente y el ciclo del lenguaje.*
 
 ### ¿Qué se puede hacer con Python?
 
@@ -26,7 +29,8 @@ Las aplicaciones de Python son muy diversas:
 Aquí un pequeño ejemplo de código Python que imprime "¡Hola, mundo!":
 
 ```python
+# Este es un comentario en Python
 print("¡Hola, mundo desde Python!")
 
 nombre = "Blog Escolar"
-print(f"Bienvenido al {nombre}")
+print(f"Bienvenido al {nombre}") # Usando f-strings para formatear
