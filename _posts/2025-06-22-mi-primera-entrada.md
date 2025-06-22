@@ -1,21 +1,34 @@
 ---
 layout: post
-title:  "Mi Primera Entrada del Blog"
+title:  "Descifrando la Web: Una Mirada a HTML"
 date:   2025-06-22 10:00:00 -0600
-categories: blog
-tags: [html, css, jekyll]
-featured_image: /assets/images/html-logo.png # Opcional: si tienes una imagen del logo de HTML, pon aquí su ruta
+categories: [web, html, fundamentos]
+tags: [html, estructura, etiquetas, navegador]
+featured_image: /assets/images/html-structure.png # Opcional: Imagen de la estructura básica de HTML
 ---
 
-¡Hola a todos! Esta es mi primera entrada en mi blog escolar. Aquí estoy aplicando mis conocimientos de **HTML** y **CSS**.
+¡Bienvenidos a mi primera inmersión en el fascinante mundo del desarrollo web! Hoy quiero hablar sobre el pilar fundamental de cualquier página que visitas en internet: **HTML (HyperText Markup Language)**.
 
-Este es un párrafo de texto de ejemplo. Podemos incluir **texto en negrita**, *texto en cursiva* y [enlaces](https://www.google.com).
+### ¿Qué es HTML?
 
-También puedo añadir una imagen de nuestro amigo HTML:
+Imagina que quieres construir una casa. Antes de poner ladrillos o pintar paredes, necesitas un plano, una estructura que defina dónde va cada cosa. HTML cumple esa función para las páginas web. Es un lenguaje de marcado que utiliza **etiquetas** para estructurar el contenido de un documento, indicando qué partes son encabezados, párrafos, imágenes, enlaces, listas, ¡y mucho más!
 
-![Logo de HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+Piensa en una receta: el título es un encabezado, la lista de ingredientes es una lista, y las instrucciones son párrafos. HTML nos permite darle ese orden y significado a la información en la web.
 
----
-## Subtítulo de la Entrada
+### La Estructura Básica
 
-Aquí hay más contenido sobre cómo estoy aprendiendo a estructurar mi sitio web con **HTML** y a darle estilo con **CSS**.
+Toda página HTML sigue una estructura fundamental. Aquí te presento un esquema básico:
+
+````html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Título de la Página</title>
+</head>
+<body>
+    <h1>Encabezado Principal</h1>
+    <p>Este es un párrafo de contenido.</p>
+    <img src="/assets/images/html-element.png" alt="Ejemplo de etiqueta HTML">
+</body>
+</html>
