@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Tu Titulo Aqui"
-date:   2025-06-22 10:00:00 -0600 # Asegúrate de que la fecha y hora sean correctas y que la hora no sea futura
-categories: blog # Opcional, pero bueno tenerlo
-tags: [tag1, tag2] # Opcional, pero bueno tenerlo
+title:  "Mi Primera Entrada: Explorando HTML y CSS"
+date:   2025-06-22 10:00:00 -0600
+categories: [programacion, web, escolar]
+tags: [html, css, blog]
 ---
+
 ¡Hola! Para mi primera entrada del blog, estoy emocionado de mostrar cómo estoy aplicando los conceptos de **HTML** para estructurar el contenido y **CSS** para darle estilo.
 
 ### Estructura con HTML
