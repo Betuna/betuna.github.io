@@ -4,7 +4,7 @@ title:  "Entendiendo GitHub Pages: Tu Web Gratuita y Sencilla"
 date:   2025-06-22 13:25:00 -0600
 categories: [web, github, desarrollo]
 tags: [github, pages, hosting, gratuito, jekyll]
-featured_image: /assets/images/github-pages-logo.png # Opcional: si tienes una imagen de GitHub Pages, pon aquí su ruta
+featured_image: /assets/images/github-logo.png # Asegúrate de subir esta imagen a tu carpeta assets/images
 ---
 
 ¡Hola de nuevo! En mi camino de aprendizaje sobre desarrollo web, he descubierto una herramienta fantástica para publicar sitios estáticos de forma gratuita: **GitHub Pages**. Es la plataforma que estoy utilizando para este mismo blog, ¡y es increíblemente útil!
@@ -12,6 +12,9 @@ featured_image: /assets/images/github-pages-logo.png # Opcional: si tienes una i
 ### ¿Qué es GitHub Pages?
 
 GitHub Pages es un servicio ofrecido por GitHub que te permite alojar sitios web directamente desde tu repositorio de GitHub. Lo mejor de todo es que es **gratuito para sitios públicos** y se integra perfectamente con herramientas como Jekyll (el generador de sitios estáticos que estoy usando).
+
+![Logo de GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+*El logo de GitHub, símbolo del desarrollo colaborativo y la publicación web.*
 
 ### ¿Cómo funciona?
 
