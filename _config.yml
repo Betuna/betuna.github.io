@@ -7,13 +7,13 @@ baseurl: ""
 url: "https://betuna.github.io/" # La URL base de tu sitio
 
 # Theme settings (asegúrate de que coincida con el tema que elijas o con minima)
-theme: minima # Si elegiste Minima en el selector de tema de GitHub Pages, o puedes cambiarlo aquí si sabes el nombre del gem del tema.
+theme: minima
 
 # Build settings
-markdown: kramdown # Procesador de Markdown
+markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag # Recomendado para SEO
+  - jekyll-seo-tag
 
 # Additional options for your theme (pueden variar según el tema)
 minima:
